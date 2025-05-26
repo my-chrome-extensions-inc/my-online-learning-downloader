@@ -1,10 +1,10 @@
 # My Online Learning Downloader
 
-Thank you to everyone who has donated Bitcoin so far!
+Donations helped keep this extension going.
 
-Donations help keep this extension going and stops it from being a subscription service.
+Unfortunately the donations have not kept up with the running costs for the maintenance of this extension, so it will be removed from all platforms by the end of June 2025.
 
-Any amount is welcome.
+If the situation changes and support for this extension grows, then it can continue to stay on the platforms they're currently distributed on.
 
 ## Donate Bitcoin
 ![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
