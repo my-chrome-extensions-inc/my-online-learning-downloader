@@ -6,6 +6,12 @@ Unfortunately the donations have not kept up with the running costs for the main
 
 If the situation changes and support for this extension grows, then it can continue to stay on the platforms they're currently distributed on.
 
+## Donate by Buying Me A Coffee
+<a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Donate by Becoming A Patron
+<a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a>
+
 ## Donate Bitcoin
 ![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
 
