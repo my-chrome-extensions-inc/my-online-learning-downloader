@@ -21,3 +21,6 @@ If the situation changes and support for this extension grows, then it can conti
 [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/my-online-learning-downloader/)
 
 Leave a rating or review if this extension has helped you.
+
+### Bug fixes in version 1.1.39.0
+In some video courses, the first chapter showing the course introduction would not be in the list of downloadable content. This has been fixed.
