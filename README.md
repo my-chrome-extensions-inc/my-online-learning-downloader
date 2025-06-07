@@ -1,10 +1,12 @@
 # My Online Learning Downloader
 
-Donations helped keep this extension going.
+## 7 June 2025
 
-Unfortunately the donations have not kept up with the running costs for the maintenance of this extension, so it will be removed from all platforms by the end of June 2025.
+Donations help keep this extension maintained and published.
 
-If the situation changes and support for this extension grows, then it can continue to stay on the platforms they're currently distributed on.
+### Thank you to the [**0.1%**] of you (number of donations ÷ number of users) who have donated. Your generosity is greatly appreciated.
+
+There are a significant amount of heavy users from **major** corporations, libraries and colleges/universities who could easily donate toward the efforts of this extension. Please consider supporting the tools that are helping you on your learning journey.
 
 ## Donate by Buying Me A Coffee
 <a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
