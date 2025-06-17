@@ -1,4 +1,8 @@
-# My Online Learning Downloader
+## 17 June 2025
+
+Even more donations have come in, and your support and kind words are appreciated. Thank you.
+
+Downloading of recorded live-lessons now works again, download version 1.1.39.2 to get the feature back.
 
 ## 7 June 2025
 
@@ -25,6 +29,9 @@ There are a significant amount of heavy users from **major** corporations, libra
 Leave a rating or review if this extension has helped you.
 
 ---
+
+### Bug fixes in version 1.1.39.2
+Live-lesson recorded sessions can now be downloaded again, along with their captions.
 
 ### Bug fixes in version 1.1.39.0
 In some video courses, the first chapter showing the course introduction would not be in the list of downloadable content. This has been fixed.
