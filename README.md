@@ -1,3 +1,12 @@
+## Donate by Buying Me A Coffee
+<a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+## Donate by Becoming A Patron
+<a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a>
+
+## Donate Bitcoin
+![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
+
 ## 19 June 2025
 
 A feature has been launched for On Demand Courses, where if the videos are categorized into Modules, then the Lessons under that Module will be nested beneath it.
@@ -28,15 +37,6 @@ Donations help keep this extension maintained and published.
 
 There are a significant amount of heavy users from **major** corporations, libraries and colleges/universities who could easily donate toward the efforts of this extension. Please consider supporting the tools that are helping you on your learning journey.
 
-## Donate by Buying Me A Coffee
-<a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## Donate by Becoming A Patron
-<a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a>
-
-## Donate Bitcoin
-![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
-
 ### Links to extensions
 [Chrome extension](https://chromewebstore.google.com/detail/my-online-learning-downlo/deebiaolijlopiocielojiipnpnaldlk)
 
@@ -46,7 +46,7 @@ Leave a rating or review if this extension has helped you.
 
 ---
 
-## Feature enhancement in 1.1.39.3
+### Feature enhancement in 1.1.39.3
 On Demand Courses (videos) will now nest into their respective Module folders, if they exist.
 
 ### Bug fixes in version 1.1.39.2
