@@ -1,3 +1,19 @@
+## 19 June 2025
+
+A feature has been launched for On Demand Courses, where if the videos are categorized into Modules, then the Lessons under that Module will be nested beneath it.
+
+e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structure when downloaded:
+
+```
+~/Module 1 X/Lesson 1 A/001. Video1.mp4
+~/Module 1 X/Lesson 1 A/002. Video2.mp4
+~/Module 1 X/Lesson 1 A/003. Video3.mp4
+~/Module 1 X/Lesson 2 B/...
+~/Module 1 X/Lesson 2 C/...
+~/Module 1 X/Lesson 2 D/...
+...
+```
+
 ## 17 June 2025
 
 Even more donations have come in, and your support and kind words are appreciated. Thank you.
@@ -29,6 +45,9 @@ There are a significant amount of heavy users from **major** corporations, libra
 Leave a rating or review if this extension has helped you.
 
 ---
+
+## Feature enhancement in 1.1.39.3
+On Demand Courses (videos) will now nest into their respective Module folders, if they exist.
 
 ### Bug fixes in version 1.1.39.2
 Live-lesson recorded sessions can now be downloaded again, along with their captions.
