@@ -7,19 +7,19 @@
 ## Donate Bitcoin
 ![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
 
-## 19 June 2025
+## 20 June 2025
 
 A feature has been launched for On Demand Courses, where if the videos are categorized into Modules, then the Lessons under that Module will be nested beneath it.
 
 e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structure when downloaded:
 
 ```
-~/Module 1 X/Lesson 1 A/001. Video1.mp4
-~/Module 1 X/Lesson 1 A/002. Video2.mp4
-~/Module 1 X/Lesson 1 A/003. Video3.mp4
-~/Module 1 X/Lesson 2 B/...
-~/Module 1 X/Lesson 2 C/...
-~/Module 1 X/Lesson 2 D/...
+~/Some Course Name (2025)/Module 1 - X/Lesson 1 - A/001. Video1.mp4
+~/Some Course Name (2025)/Module 1 - X/Lesson 1 - A/002. Video2.mp4
+~/Some Course Name (2025)/Module 1 - X/Lesson 1 - A/003. Video3.mp4
+~/Some Course Name (2025)/Module 1 - X/Lesson 2 - B/...
+~/Some Course Name (2025)/Module 1 - X/Lesson 2 - C/...
+~/Some Course Name (2025)/Module 1 - X/Lesson 2 - D/...
 ...
 ```
 
@@ -46,8 +46,10 @@ Leave a rating or review if this extension has helped you.
 
 ---
 
-### Feature enhancement in 1.1.39.3
-On Demand Courses (videos) will now nest into their respective Module folders, if they exist.
+### Feature enhancement in 1.1.39.4
+* On Demand Courses (videos) will now nest lessons into their respective Module folders, if they exist.
+* The year of the course will now be included into the course title of the directory it is downloaded in. e.g.: `Some Course Name (2025)`
+* Some general directory naming clean up
 
 ### Bug fixes in version 1.1.39.2
 Live-lesson recorded sessions can now be downloaded again, along with their captions.
