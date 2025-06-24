@@ -7,6 +7,8 @@
 ## Donate Bitcoin
 ![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
 
+---
+
 ## 20 June 2025
 
 A feature has been launched for On Demand Courses, where if the videos are categorized into Modules, then the Lessons under that Module will be nested beneath it.
