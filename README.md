@@ -42,7 +42,7 @@ e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structur
 
 ## 7 June 2025
 
-### Thank you to the **$0.1\\%% $** of you $(\frac{number\ of\ donations}{number\ of\ users})$ who have donated.
+### Thank you to the **0.1%** of you (number of donations ÷ number of users) who have donated.
 
 🪙 Donations help keep this extension maintained and published.
 
