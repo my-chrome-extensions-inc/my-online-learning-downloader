@@ -42,13 +42,11 @@ e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structur
 
 ## 7 June 2025
 
+### Thank you to the **$0.1\\%% $** of you $(\frac{number\ of\ donations}{number\ of\ users})$ who have donated.
+
 🪙 Donations help keep this extension maintained and published.
 
-### Thank you to the [**0.1%**] of you (number of donations ÷ number of users) who have donated. Your generosity is greatly appreciated.
-
 📈 There are a significant amount of heavy users from **major** corporations, libraries and colleges/universities who could easily donate toward the efforts of this extension. Please consider supporting the tools that are helping you on your learning journey.
-
-
 
 ---
 
