@@ -60,3 +60,7 @@ Live-lesson recorded sessions can now be downloaded again, along with their capt
 
 ### Bug fixes in version 1.1.39.0
 In some video courses, the first chapter showing the course introduction would not be in the list of downloadable content. This has been fixed.
+
+---
+
+**Contact:** my-chrome-extensions-inc ** at ** proton ** dot ** me
