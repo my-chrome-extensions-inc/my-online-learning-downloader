@@ -1,7 +1,7 @@
 <table border="0" style="background-color: #fff">
   <tr>
-    <td><b style="font-size: 1em">Donate by Buying Me A Coffee</b></td>
-    <td><b style="font-size: 1em">Donate by Becoming A Patron</b></td>
+    <td><b style="font-size: 2em">Donate by Buying Me A Coffee</b></td>
+    <td><b style="font-size: 2em">Donate by Becoming A Patron</b></td>
   </tr>
   <tr>
     <td align="center"><a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></td>
