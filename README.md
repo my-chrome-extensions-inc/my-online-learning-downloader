@@ -25,7 +25,8 @@
 
 ## 16 Aug 2025
 
-🐛 A bug was found that prevented ebook, videos and courses from being downloadable. A fix has been implemented and is available in version 1.1.39.6
+🐛 A bug was found that prevented ebook, videos and courses from being downloadable. A fix has been implemented and is available in version 1.1.39.6.
+Donations help ensure that timely fixes are implemented for this extension. Please consider making a donation today!
 
 ## 20 June 2025
 
@@ -58,6 +59,9 @@ e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structur
 📈 There are a significant amount of heavy users from **major** corporations, libraries and colleges/universities who could easily donate toward the efforts of this extension. Please consider supporting the tools that are helping you on your learning journey.
 
 ---
+
+### Bug fixes in version 1.1.39.6
+eBooks, videos and courses should now be available for download again.
 
 ### Feature enhancement in 1.1.39.4
 * On Demand Courses (videos) will now nest lessons into their respective Module folders, if they exist.
