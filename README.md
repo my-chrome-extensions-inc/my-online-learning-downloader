@@ -1,8 +1,13 @@
-## Donate by Buying Me A Coffee
-<a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## Donate by Becoming A Patron
-<a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a>
+<table border="0" style="background-color: #fff">
+  <tr>
+    <td><b style="font-size: 3em">Donate by Buying Me A Coffee</b></td>
+    <td><b style="font-size: 3em">Donate by Becoming A Patron</b></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></td>
+    <td align="center"><a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a></td>
+  </tr>
+</table>
 
 ## Donate Bitcoin
 ![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
@@ -17,6 +22,10 @@
 🗳️ Leave a rating or review if this extension has helped you.
 
 ---
+
+## 16 Aug 2025
+
+🐛 A bug was found that prevented ebook, videos and courses from being downloadable. A fix has been implemented and is available in version 1.1.39.6
 
 ## 20 June 2025
 
