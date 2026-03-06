@@ -23,6 +23,13 @@
 
 ---
 
+# 6 March 2026
+
+🐛 Numerous bugs were fixed regarding the download of video courses. Some sub-sections had escape characters that broke downloads on certain operating systems. ON24 (recorded live-lessons) downloads now work again too.
+Donations help ensure that timely fixes are implemented for this extension. Please consider making a donation today!
+
+---
+
 ## 16 Aug 2025
 
 🐛 A bug was found that prevented ebook, videos and courses from being downloadable. A fix has been implemented and is available in version 1.1.39.6.
