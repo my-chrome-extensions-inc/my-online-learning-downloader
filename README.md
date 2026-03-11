@@ -9,8 +9,8 @@
   </tr>
 </table>
 
-## Donate Bitcoin
-![Donate Bitcoin](https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&address=bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx)
+#### Donate Bitcoin
+<img src="assets/img/btc_1.1.38.0.png" width="200">
 
 ---
 
