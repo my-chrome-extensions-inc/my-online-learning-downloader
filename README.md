@@ -23,6 +23,20 @@
 
 ---
 
+# 13 April 2026
+
+Have you donated to My Chrome Extensions, Inc. and want to get rid of the extra donate.txt file that downloads along with your ebooks and videos? Then update to version 1.1.40.1 and follow these instructions:
+
+## Click on the popup icon for My Online Learning Downloader
+<img src="assets/img/popup-1.png" width="500">
+
+## Click on the Donate button at the top left
+<img src="assets/img/popup-2.png" width="500">
+
+## Follow the instructions at the bottom
+
+---
+
 # 6 March 2026
 
 🐛 Numerous bugs were fixed regarding the download of video courses. Some sub-sections had escape characters that broke downloads on certain operating systems. ON24 (recorded live-lessons) downloads now work again too.
