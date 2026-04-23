@@ -23,6 +23,16 @@
 
 ---
 
+# 23 April 2026
+
+My Online Learning Downloader now supports UTF-8 file names, so content downloaded in any non-English language will preserve their original file names. For example, Chinese (Simplified) will download files with their originally intended file names.
+
+### Don't forget to send through your hash to <a href="mailto:my-chrome-extensions-inc@proton.me">my-chrome-extensions-inc@proton.me</a> if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
+
+Instructions on how to get your hash are below
+
+---
+
 # 13 April 2026
 
 Have you donated to My Chrome Extensions, Inc. and want to get rid of the extra donate.txt file that downloads along with your ebooks and videos? Then update to version 1.1.40.1 and follow these instructions:
