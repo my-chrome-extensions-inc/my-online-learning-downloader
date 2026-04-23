@@ -27,7 +27,7 @@
 
 My Online Learning Downloader now supports UTF-8 file names, so content downloaded in any non-English language will preserve their original file names. For example, Chinese (Simplified) will download files with their originally intended file names.
 
-### Don't forget to send through your hash to <a href="mailto:my-chrome-extensions-inc@proton.me">my-chrome-extensions-inc@proton.me</a> if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
+### Don't forget to send through your hash to my-chrome-extensions-inc ** at ** proton ** dot ** me if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
 
 Instructions on how to get your hash are below
 
