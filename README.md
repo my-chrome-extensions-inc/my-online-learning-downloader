@@ -1,55 +1,63 @@
-<table border="0" style="background-color: #fff">
-  <tr>
-    <td><b style="font-size: 2em">Donate by Buying Me A Coffee</b></td>
-    <td><b style="font-size: 2em">Donate by Becoming A Patron</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></td>
-    <td align="center"><a href="https://www.patreon.com/bePatron?u=174105136" target="_blank"><img src="https://www.patreon.com/favicon.ico" width="60" height="60" /></a></td>
-  </tr>
-</table>
+<div class="donate-section">
 
-#### Donate Bitcoin
-<img src="assets/img/btc_1.1.38.0.png" width="200">
+<div class="donate-grid">
+
+<div class="donate-card">
+<h3>Buy Me A Coffee</h3>
+<a href="https://www.buymeacoffee.com/my.chrome.extensions.inc" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee"></a>
+</div>
+
+<div class="donate-card">
+<h3>Become a Patron</h3>
+<a class="btn-donate" href="https://www.patreon.com/bePatron?u=174105136" target="_blank" rel="noopener">Support on Patreon</a>
+</div>
+
+</div>
+
+<div class="donate-btc">
+<img src="assets/img/btc_1.1.38.0.png" alt="Bitcoin QR Code" class="btc-qr">
+<div class="btc-info">
+<strong>Donate Bitcoin</strong>
+<p class="btc-address">bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx</p>
+</div>
+</div>
+
+</div>
 
 ---
 
-## Links to extensions
-[Chrome extension](https://chromewebstore.google.com/detail/my-online-learning-downlo/deebiaolijlopiocielojiipnpnaldlk)
-
-[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/my-online-learning-downloader/)
-
-🗳️ Leave a rating or review if this extension has helped you.
-
----
-
-# 23 April 2026
+## 23 April 2026
 
 My Online Learning Downloader now supports UTF-8 file names, so content downloaded in any non-English language will preserve their original file names. For example, Chinese (Simplified) will download files with their originally intended file names.
 
-### Don't forget to send through your hash to my-chrome-extensions-inc ** at ** proton ** dot ** me if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
+### Send your hash to remove donate.txt
 
-Instructions on how to get your hash are below
+Don't forget to send through your hash to my-chrome-extensions-inc@proton.me if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
+
+Instructions on how to get your hash are below.
 
 ---
 
-# 13 April 2026
+## 13 April 2026
 
 Have you donated to My Chrome Extensions, Inc. and want to get rid of the extra donate.txt file that downloads along with your ebooks and videos? Then update to version 1.1.40.1 and follow these instructions:
 
-## Click on the popup icon for My Online Learning Downloader
-<img src="assets/img/popup-1.png" width="500">
+### Click the popup icon for My Online Learning Downloader
 
-## Click on the Donate button at the top left
-<img src="assets/img/popup-2.png" width="500">
+<img src="assets/img/popup-1.png" loading="lazy" alt="Extension popup showing the icon location in Chrome">
 
-## Follow the instructions at the bottom
+### Click the Donate button at the top left
+
+<img src="assets/img/popup-2.png" loading="lazy" alt="Extension donation dialog with hash instructions">
+
+### Follow the instructions at the bottom
 
 ---
 
-# 6 March 2026
+## 6 March 2026
 
 🐛 Numerous bugs were fixed regarding the download of video courses. Some sub-sections had escape characters that broke downloads on certain operating systems. ON24 (recorded live-lessons) downloads now work again too.
+
 Donations help ensure that timely fixes are implemented for this extension. Please consider making a donation today!
 
 ---
@@ -57,6 +65,7 @@ Donations help ensure that timely fixes are implemented for this extension. Plea
 ## 16 Aug 2025
 
 🐛 A bug was found that prevented ebook, videos and courses from being downloadable. A fix has been implemented and is available in version 1.1.39.6.
+
 Donations help ensure that timely fixes are implemented for this extension. Please consider making a donation today!
 
 ## 20 June 2025
@@ -107,4 +116,4 @@ In some video courses, the first chapter showing the course introduction would n
 
 ---
 
-**Contact:** my-chrome-extensions-inc ** at ** proton ** dot ** me
+**Contact:** my-chrome-extensions-inc@proton.me

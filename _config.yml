@@ -3,3 +3,13 @@ description: Download video courses, audiobooks and ePub ebooks
 logo: /assets/img/logo.png
 btcwallet: bc1q4nqsmnzhsyn6zxx82lx0de7kn5uszdsm6e6wsx
 theme: jekyll-theme-minimal
+chrome_url: https://chromewebstore.google.com/detail/my-online-learning-downlo/deebiaolijlopiocielojiipnpnaldlk
+firefox_url: https://addons.mozilla.org/en-US/firefox/addon/my-online-learning-downloader/
+plugins:
+  - jekyll-readme-index
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

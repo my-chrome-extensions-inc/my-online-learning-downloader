@@ -1,0 +1,7 @@
+_site/
+.claude/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile
+Gemfile.lock

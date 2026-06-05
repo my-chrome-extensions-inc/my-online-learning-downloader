@@ -2,33 +2,48 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
+    {% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {% include head-custom.html %}
   </head>
   <body>
-    <div class="wrapper">
-      <header style="width: 200px !important">
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </header>
-      <section style="width: 600px !important">
+    <header class="site-header">
+      <div class="container">
+        <div class="header-inner">
+          {% if site.logo %}
+          <div class="site-logo-wrap">
+            <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
+          </div>
+          {% endif %}
+          <div class="header-text">
+            <h1 class="site-title">{{ site.title }}</h1>
+            {% if site.description %}
+            <p class="site-tagline">{{ site.description }}</p>
+            {% endif %}
+          </div>
+        </div>
+        <div class="header-actions">
+          <a href="{{ site.chrome_url }}" class="btn btn-chrome" target="_blank" rel="noopener">
+            Add to Chrome
+          </a>
+          <a href="{{ site.firefox_url }}" class="btn btn-firefox" target="_blank" rel="noopener">
+            Add to Firefox
+          </a>
+        </div>
+      </div>
+    </header>
 
-      {{ content }}
+    <main>
+      <div class="container">
+        {{ content }}
+      </div>
+    </main>
 
-      </section>
-      <footer>
-      </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <footer class="site-footer">
+      <div class="container">
+        <p>&copy; {{ 'now' | date: "%Y" }} {{ site.title }}</p>
+      </div>
+    </footer>
   </body>
 </html>
