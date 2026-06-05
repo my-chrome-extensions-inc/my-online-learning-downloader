@@ -24,8 +24,6 @@
 
 </div>
 
----
-
 ## 23 April 2026
 
 My Online Learning Downloader now supports UTF-8 file names, so content downloaded in any non-English language will preserve their original file names. For example, Chinese (Simplified) will download files with their originally intended file names.
@@ -35,8 +33,6 @@ My Online Learning Downloader now supports UTF-8 file names, so content download
 Don't forget to send through your hash to my-chrome-extensions-inc@proton.me if you have made a donation, along with your donation's email address, so you no longer receive donate.txt files when downloading.
 
 Instructions on how to get your hash are below.
-
----
 
 ## 13 April 2026
 
@@ -52,15 +48,11 @@ Have you donated to My Chrome Extensions, Inc. and want to get rid of the extra 
 
 ### Follow the instructions at the bottom
 
----
-
 ## 6 March 2026
 
 🐛 Numerous bugs were fixed regarding the download of video courses. Some sub-sections had escape characters that broke downloads on certain operating systems. ON24 (recorded live-lessons) downloads now work again too.
 
 Donations help ensure that timely fixes are implemented for this extension. Please consider making a donation today!
-
----
 
 ## 16 Aug 2025
 
@@ -98,8 +90,6 @@ e.g.: Module 1: X, Lesson 1: A, Lesson 2: B will be under the following structur
 
 📈 There are a significant amount of heavy users from **major** corporations, libraries and colleges/universities who could easily donate toward the efforts of this extension. Please consider supporting the tools that are helping you on your learning journey.
 
----
-
 ### Bug fixes in version 1.1.39.6
 eBooks, videos and courses should now be available for download again.
 
@@ -113,7 +103,5 @@ Live-lesson recorded sessions can now be downloaded again, along with their capt
 
 ### Bug fixes in version 1.1.39.0
 In some video courses, the first chapter showing the course introduction would not be in the list of downloadable content. This has been fixed.
-
----
 
 **Contact:** my-chrome-extensions-inc@proton.me

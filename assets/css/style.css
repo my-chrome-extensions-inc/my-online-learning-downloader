@@ -1,4 +1,4 @@
-/* ─── Design tokens ─────────────────────────────────────────────── */
+/* --- Design tokens ----------------------------------------------- */
 :root {
   --accent:        #4f46e5;
   --accent-dark:   #3730a3;
@@ -14,10 +14,10 @@
   --font-mono:     ui-monospace, SFMono-Regular, "SF Mono", Consolas, monospace;
 }
 
-/* ─── Reset ─────────────────────────────────────────────────────── */
+/* --- Reset ------------------------------------------------------- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-/* ─── Base ──────────────────────────────────────────────────────── */
+/* --- Base -------------------------------------------------------- */
 body {
   font-family: var(--font-sans);
   font-size: 16px;
@@ -48,14 +48,14 @@ hr {
   margin: 2.5rem 0;
 }
 
-/* ─── Container ─────────────────────────────────────────────────── */
+/* --- Container --------------------------------------------------- */
 .container {
   max-width: 860px;
   margin: 0 auto;
   padding: 0 1.5rem;
 }
 
-/* ─── Header / Hero ─────────────────────────────────────────────── */
+/* --- Header / Hero ----------------------------------------------- */
 .site-header {
   background: var(--accent-grad);
   padding: 3rem 0 3.5rem;
@@ -107,7 +107,7 @@ hr {
   flex-wrap: wrap;
 }
 
-/* ─── Buttons ───────────────────────────────────────────────────── */
+/* --- Buttons ----------------------------------------------------- */
 .btn {
   display: inline-flex;
   align-items: center;
@@ -140,12 +140,12 @@ hr {
 }
 .btn-firefox:hover { background: rgba(255, 255, 255, 0.26); }
 
-/* ─── Main content ──────────────────────────────────────────────── */
+/* --- Main content ------------------------------------------------ */
 main {
   padding: 3rem 0 4rem;
 }
 
-/* ─── Content headings ──────────────────────────────────────────── */
+/* --- Content headings -------------------------------------------- */
 main h2 {
   font-size: 1rem;
   font-weight: 700;
@@ -167,7 +167,7 @@ main h3 {
   margin-bottom: 0.5rem;
 }
 
-/* ─── Donate section ────────────────────────────────────────────── */
+/* --- Donate section ---------------------------------------------- */
 .donate-section {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -266,7 +266,7 @@ main h3 {
   line-height: 1.4;
 }
 
-/* ─── Images in content ─────────────────────────────────────────── */
+/* --- Images in content ------------------------------------------- */
 main img {
   max-width: 100%;
   height: auto;
@@ -276,7 +276,7 @@ main img {
   margin: 1rem 0;
 }
 
-/* ─── Code ──────────────────────────────────────────────────────── */
+/* --- Code -------------------------------------------------------- */
 code {
   font-family: var(--font-mono);
   font-size: 0.875em;
@@ -303,7 +303,7 @@ pre code {
   color: #334155;
 }
 
-/* ─── Footer ────────────────────────────────────────────────────── */
+/* --- Footer ------------------------------------------------------ */
 .site-footer {
   background: var(--surface);
   border-top: 1px solid var(--border);
@@ -316,7 +316,7 @@ pre code {
 .site-footer a { color: var(--text-muted); }
 .site-footer a:hover { color: var(--accent); }
 
-/* ─── Responsive ────────────────────────────────────────────────── */
+/* --- Responsive -------------------------------------------------- */
 @media (max-width: 600px) {
   .site-header { padding: 2rem 0 2.5rem; }
 
