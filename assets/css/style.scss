@@ -1,3 +1,6 @@
+---
+---
+
 /* --- Design tokens ----------------------------------------------- */
 :root {
   --accent:        #4f46e5;
@@ -42,11 +45,7 @@ li { margin-bottom: 0.35rem; }
 
 strong { font-weight: 600; }
 
-hr {
-  border: none;
-  border-top: 1px solid var(--border);
-  margin: 2.5rem 0;
-}
+hr { display: none; }
 
 /* --- Container --------------------------------------------------- */
 .container {
