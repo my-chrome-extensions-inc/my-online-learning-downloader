@@ -333,3 +333,136 @@ pre code {
 
   .btc-qr { margin: 0 auto; }
 }
+
+/* --- Closing / going out of business ----------------------------- */
+.site-header--closing {
+  min-height: 420px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.header-backdrop {
+  pointer-events: none;
+  user-select: none;
+}
+
+.header-backdrop .header-inner {
+  opacity: 0.28;
+  filter: grayscale(0.5);
+}
+
+.header-backdrop .header-actions {
+  opacity: 0.22;
+  filter: grayscale(0.6);
+}
+
+.notice-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  padding: 2.5rem 1rem 1rem;
+}
+
+.notice-card {
+  background: #fff;
+  top: 300px;
+  width: min(460px, 94vw);
+  border-radius: 3px;
+  padding: 2.25rem 2.5rem 2rem;
+  box-shadow:
+    0 2px 4px rgba(0, 0, 0, 0.08),
+    0 12px 32px rgba(0, 0, 0, 0.32),
+    0 32px 72px rgba(0, 0, 0, 0.2);
+  transform: rotate(-1.4deg);
+  position: relative;
+}
+
+.notice-pin {
+  position: absolute;
+  top: -20px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 24px;
+  height: 34px;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.35));
+}
+
+.notice-eyebrow {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: #d97706;
+  margin-bottom: 0.55rem;
+}
+
+.notice-heading {
+  font-size: 1.45rem;
+  font-weight: 800;
+  color: var(--text);
+  line-height: 1.15;
+  letter-spacing: -0.5px;
+  margin-bottom: 1rem;
+}
+
+.notice-date {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  display: inline-block;
+  padding: 0.2rem 0.65rem;
+  border-radius: 4px;
+  margin-bottom: 1.1rem;
+}
+
+.notice-body {
+  font-size: 0.88rem;
+  line-height: 1.65;
+  color: #374151;
+  margin-bottom: 0.85rem;
+}
+
+.notice-body:last-of-type { margin-bottom: 0; }
+
+.notice-meta {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  padding-top: 0.9rem;
+  margin-top: 1rem;
+  line-height: 1.7;
+}
+
+.main--archived {
+  filter: grayscale(0.55);
+  opacity: 0.6;
+}
+
+.main--archived .donate-section { display: none; }
+
+.archive-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  text-align: center;
+  padding: 1.1rem 0;
+  border-bottom: 1.5px dashed var(--border);
+  margin-bottom: 2.5rem;
+}
+
+
+@media (max-width: 600px) {
+  .notice-card { padding: 1.75rem 1.5rem 1.5rem; }
+  .notice-heading { font-size: 1.2rem; }
+}

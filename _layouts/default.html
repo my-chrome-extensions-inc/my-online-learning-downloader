@@ -9,7 +9,8 @@
     {% include head-custom.html %}
   </head>
   <body>
-    <header class="site-header">
+    <header class="site-header{% if site.closing %} site-header--closing{% endif %}">
+      {% if site.closing %}<div class="header-backdrop">{% endif %}
       <div class="container">
         <div class="header-inner">
           {% if site.logo %}
@@ -33,10 +34,39 @@
           </a>
         </div>
       </div>
+      {% if site.closing %}</div>
+
+      <div class="notice-overlay">
+        <div class="notice-card" role="alert" aria-label="Closing notice">
+          <svg class="notice-pin" viewBox="0 0 24 34" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+            <circle cx="12" cy="11" r="10" fill="url(#pin-shine)"/>
+            <circle cx="8.5" cy="7.5" r="3.5" fill="rgba(255,255,255,0.28)"/>
+            <line x1="12" y1="21" x2="12" y2="33" stroke="#92400e" stroke-width="2.5" stroke-linecap="round"/>
+            <defs>
+              <radialGradient id="pin-shine" cx="35%" cy="30%" r="70%">
+                <stop offset="0%" stop-color="#f59e0b"/>
+                <stop offset="100%" stop-color="#b45309"/>
+              </radialGradient>
+            </defs>
+          </svg>
+          <p class="notice-eyebrow">Important notice</p>
+          <h2 class="notice-heading">This extension is being discontinued</h2>
+          <span class="notice-date">Effective: {{ site.closing_date }}</span>
+          <p class="notice-body">After years of development and thousands of downloads, I'm stepping back from actively maintaining My Online Learning Downloader. Version&nbsp;{{ site.closing_version }} is the final release.</p>
+          <p class="notice-body">Thank you to everyone who donated and sent kind words — it genuinely helped keep this going longer than I expected.</p>
+          <p class="notice-body">Unfortunately, the cost of maintaining the extension has become unsustainable and I can no longer afford the subscription needed to keep it updated.</p>
+          <div class="notice-meta">
+            Final version: {{ site.closing_version }} &nbsp;·&nbsp; Chrome &amp; Firefox<br>
+            Contact: my-chrome-extensions-inc@proton.me
+          </div>
+        </div>
+      </div>
+      {% endif %}
     </header>
 
-    <main>
+    <main{% if site.closing %} class="main--archived"{% endif %}>
       <div class="container">
+        {% if site.closing %}<p class="archive-label">Archived changelog</p>{% endif %}
         {{ content }}
       </div>
     </main>
