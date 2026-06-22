@@ -19,8 +19,8 @@
 My Online Learning Downloader is shutting down at the end of July 2026.
 Version 1.1.40.13 will be the last release of this extension.
 The costs of keeping this extension updated exceed the donations coming in,
-so it cease to be updated. Any changes on the site that prevent this extension
-from working will not be updated to accommodate those changes.
+so it will cease being updated. Any changes on the learning site that prevent
+this extension from working will not be updated to accommodate those changes.
 
 =================================================================================
 
